@@ -1,2 +1,2 @@
 def hola(nombre):
-	print(f"Hola, {nombre}")
+	print(f"¡Hola, {nombre}!")
