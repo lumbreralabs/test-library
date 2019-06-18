@@ -1,5 +1,5 @@
 def hello(name):
 	print(f"Hello, {name}")
 
-def addAge(age):
+def add_age(age):
 	print(f"Age, {age}")
